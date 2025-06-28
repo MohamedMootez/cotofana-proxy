@@ -1,0 +1,66 @@
+42394a71-0725-4956-9bc7-30f41ec352bf	20250623	 12:29:38	 Error (options.buffer || req).pipe is not a function, caused by undefined TypeError: (options.buffer || req).pipe is not a function
+    at Array.stream (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\passes\web-incoming.js:170:29)
+    at ProxyServer.<anonymous> (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\index.js:81:21)
+    at HttpProxyMiddleware.middleware (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy-middleware\dist\http-proxy-middleware.js:23:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+da8923f5-061e-4d44-98d6-42e1961d452e	20250623	 12:32:42	 Error (options.buffer || req).pipe is not a function, caused by undefined TypeError: (options.buffer || req).pipe is not a function
+    at Array.stream (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\passes\web-incoming.js:170:29)
+    at ProxyServer.<anonymous> (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\index.js:81:21)
+    at HttpProxyMiddleware.middleware (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy-middleware\dist\http-proxy-middleware.js:23:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+a516572e-2e11-4b89-b661-b5ab34713f17	20250623	 12:33:40	 Error (options.buffer || req).pipe is not a function, caused by undefined TypeError: (options.buffer || req).pipe is not a function
+    at Array.stream (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\passes\web-incoming.js:170:29)
+    at ProxyServer.<anonymous> (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\index.js:81:21)
+    at HttpProxyMiddleware.middleware (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy-middleware\dist\http-proxy-middleware.js:23:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+b0920be8-99a0-4014-b547-9e463f06bdcc	20250623	 12:36:25	 Error (options.buffer || req).pipe is not a function, caused by undefined TypeError: (options.buffer || req).pipe is not a function
+    at Array.stream (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\passes\web-incoming.js:170:29)
+    at ProxyServer.<anonymous> (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\index.js:81:21)
+    at HttpProxyMiddleware.middleware (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy-middleware\dist\http-proxy-middleware.js:23:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+397ab228-a387-4e58-8724-89a47ddce6e5	20250623	 12:36:33	 Error (options.buffer || req).pipe is not a function, caused by undefined TypeError: (options.buffer || req).pipe is not a function
+    at Array.stream (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\passes\web-incoming.js:170:29)
+    at ProxyServer.<anonymous> (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\index.js:81:21)
+    at HttpProxyMiddleware.middleware (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy-middleware\dist\http-proxy-middleware.js:23:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+c142ba68-c56e-4a1d-802b-e40bb06cf0db	20250623	 12:41:24	 Error (options.buffer || req).pipe is not a function, caused by undefined TypeError: (options.buffer || req).pipe is not a function
+    at Array.stream (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\passes\web-incoming.js:170:29)
+    at ProxyServer.<anonymous> (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\index.js:81:21)
+    at HttpProxyMiddleware.middleware (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy-middleware\dist\http-proxy-middleware.js:23:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+a2ba0969-dbd5-4baf-86f8-17e8b7d2d6cf	20250623	 12:43:57	 Error (options.buffer || req).pipe is not a function, caused by undefined TypeError: (options.buffer || req).pipe is not a function
+    at Array.stream (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\passes\web-incoming.js:170:29)
+    at ProxyServer.<anonymous> (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\index.js:81:21)
+    at HttpProxyMiddleware.middleware (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy-middleware\dist\http-proxy-middleware.js:23:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+822e2ac9-6d65-4859-bf90-29877e17365a	20250623	 12:45:27	 Error (options.buffer || req).pipe is not a function, caused by undefined TypeError: (options.buffer || req).pipe is not a function
+    at Array.stream (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\passes\web-incoming.js:170:29)
+    at ProxyServer.<anonymous> (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\index.js:81:21)
+    at HttpProxyMiddleware.middleware (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy-middleware\dist\http-proxy-middleware.js:23:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+4d08a6a5-ecc7-4a2d-910d-5d609775de3b	20250623	 12:46:25	 Error (options.buffer || req).pipe is not a function, caused by undefined TypeError: (options.buffer || req).pipe is not a function
+    at Array.stream (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\passes\web-incoming.js:170:29)
+    at ProxyServer.<anonymous> (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\index.js:81:21)
+    at HttpProxyMiddleware.middleware (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy-middleware\dist\http-proxy-middleware.js:23:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+5eee43e1-aee7-4fdc-afb3-dec147028861	20250623	 13:21:02	 Error (options.buffer || req).pipe is not a function, caused by undefined TypeError: (options.buffer || req).pipe is not a function
+    at Array.stream (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\passes\web-incoming.js:170:29)
+    at ProxyServer.<anonymous> (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\index.js:81:21)
+    at HttpProxyMiddleware.middleware (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy-middleware\dist\http-proxy-middleware.js:23:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+d5776485-76ba-4305-b0f9-2abfe02904cc	20250623	 13:22:04	 Error (options.buffer || req).pipe is not a function, caused by undefined TypeError: (options.buffer || req).pipe is not a function
+    at Array.stream (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\passes\web-incoming.js:170:29)
+    at ProxyServer.<anonymous> (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy\lib\http-proxy\index.js:81:21)
+    at HttpProxyMiddleware.middleware (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\http-proxy-middleware\dist\http-proxy-middleware.js:23:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+ea77a73d-1bc2-4fee-a4a2-9692ff640646	20250623	 13:33:31	 Error Cannot read properties of undefined (reading 'username'), caused by undefined TypeError: Cannot read properties of undefined (reading 'username')
+    at file:///C:/Users/lucaa/OneDrive/Desktop/auth-micro-service/Proxy/index.mjs:24:50
+    at Layer.handleRequest (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\router\index.js:342:13)
+    at C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\router\index.js:297:9
+    at processParams (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\router\index.js:582:12)
+    at next (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\router\index.js:291:5)
+    at cors (C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\cors\lib\index.js:224:17
+    at origin (file:///C:/Users/lucaa/OneDrive/Desktop/auth-micro-service/Proxy/config/corsOptions.js:8:7)
+    at C:\Users\lucaa\OneDrive\Desktop\auth-micro-service\Proxy\node_modules\cors\lib\index.js:219:13
